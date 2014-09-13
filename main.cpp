@@ -1,6 +1,6 @@
-#include <iostream>
+#include <stdio.h>
 
 int main(){
-  cout << "Hello GITHUB!!";
+  printf("HEllo Git, with PRINTF");
   return 0;
 }
